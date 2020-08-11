@@ -12,7 +12,7 @@ This project has four major parts :
 4. templates - This folder contains the HTML template to allow user to enter employee detail and displays the predicted employee salary.
 
 ### Running the project
-1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
+1.  Create the machine learning model by running below command -
 ```
 python model.py
 ```
